@@ -1,4 +1,4 @@
-# Vous n'avez pas recu de reponse de la part du service après un mois
+# Vous n'avez pas recu de reponse du service au bout d'un mois ou la réponse ne vous convient pas 
 
 ### Envoyez le message suivant a l'adresse mail de contact précédemment utilisée
 
