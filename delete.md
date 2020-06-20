@@ -1,3 +1,5 @@
+# Vous avez plus de 15ans et souhaitez supprimer une information vous concernant sur un service en ligne
+
 ### Envoyez le message suivant (en modifiant les données entre crochets) par mail (au service protection vie privée si possible) au site web concerné
 
 Bonjour,
@@ -13,4 +15,4 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 
 ### Vous avez recu un réponse mais vous ne souhaitez pas fournir un document d'identité au site web concerné ? Rendez vous [ici](./direct_cnil.md)
 
-### Vous n'avez pas recu de reponse au bout d'un mois ? Rendez vous [ici](./no_answer.md)
+### Vous n'avez pas recu de reponse au bout d'un mois ou le service refuse la suppression de vos données ? Rendez vous [ici](./no_answer.md)
