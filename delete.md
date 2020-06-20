@@ -20,8 +20,4 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 
 <br><br>
 
-> **Vous n'avez pas recu de reponse au bout d'un mois ou la réponse ne vous convient pas ? Rendez vous [ici](./no_answer.md)**
-
-<br>
-
-> **Le service refuse la suppression de vos données ? Rendez vous [ici](./rejection.md)**
+> **Vous n'avez pas recu de reponse au bout d'un mois ou la réponse ne vous convient pas ? Rendez vous [ici](./no_answer_or_refusing.md)**
