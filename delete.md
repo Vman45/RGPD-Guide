@@ -16,6 +16,6 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 
 ```
 
-> Vous avez recu un réponse mais vous ne souhaitez pas fournir un document d'identité au site web concerné ? Rendez vous [ici](./direct_cnil.md)
+> **Vous avez recu un réponse mais vous ne souhaitez pas fournir un document d'identité au site web concerné ? Rendez vous [ici](./direct_cnil.md)**
 
-> Vous n'avez pas recu de reponse au bout d'un mois ou le service refuse la suppression de vos données ? Rendez vous [ici](./no_answer.md)
+> **Vous n'avez pas recu de reponse au bout d'un mois ou le service refuse la suppression de vos données ? Rendez vous [ici](./no_answer.md)**
