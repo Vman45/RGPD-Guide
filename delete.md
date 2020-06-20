@@ -2,6 +2,7 @@
 
 ### Envoyez le message suivant (en modifiant les données entre crochets) par mail (au service protection vie privée si possible) au site web concerné
 
+```
 Bonjour,
 
 En application de l’article 17.1 du Règlement général sur la protection des données (RGPD), je vous prie d’effacer de vos fichiers les données personnelles suivantes me concernant:[infos_a_supprimer]<br> 
@@ -13,6 +14,8 @@ A défaut de réponse de votre part dans les délais impartis ou en cas de répo
 Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 :[nom/prénom]
 
-#### Vous avez recu un réponse mais vous ne souhaitez pas fournir un document d'identité au site web concerné ? Rendez vous [ici](./direct_cnil.md)
+```
 
-#### Vous n'avez pas recu de reponse au bout d'un mois ou le service refuse la suppression de vos données ? Rendez vous [ici](./no_answer.md)
+> Vous avez recu un réponse mais vous ne souhaitez pas fournir un document d'identité au site web concerné ? Rendez vous [ici](./direct_cnil.md)
+
+> Vous n'avez pas recu de reponse au bout d'un mois ou le service refuse la suppression de vos données ? Rendez vous [ici](./no_answer.md)
