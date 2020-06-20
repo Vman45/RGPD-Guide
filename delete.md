@@ -20,7 +20,7 @@ Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distin
 
 <br><br>
 
-> **Vous n'avez pas recu de reponse au bout d'un mois ? Rendez vous [ici](./no_answer.md)**
+> **Vous n'avez pas recu de reponse au bout d'un mois ou la réponse ne vous convient pas ? Rendez vous [ici](./no_answer.md)**
 
 <br>
 
