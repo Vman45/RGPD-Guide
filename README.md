@@ -1,4 +1,4 @@
-# RGDP Guide
+# RGPD Guide
 
 Ce repo a pour but d'aider a effectuer les demarches d'effacement de données personelles vous concernant sur internet en s'appuyant sur le RGPD et le droit Francais.
 
