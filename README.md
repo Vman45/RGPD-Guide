@@ -12,4 +12,4 @@ Si vous avez des questions, n'hésitez pas a me contacer **sur riot.com @eban:gn
 
 ### Bon a savoir :
 
-- En France, l'âge légal `numérique` est de 15ans, vous pouvez donc exercer votre droit a l'oubli sans l'accord de vos tuteurs légaux a partir de 15ans
+- En France, l'âge légal `numérique` est de 15ans, vous pouvez donc exercer votre droit a l'oubli sans l'aval de vos tuteurs légaux a partir de 15ans
