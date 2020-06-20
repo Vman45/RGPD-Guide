@@ -11,4 +11,6 @@ A défaut de réponse de votre part dans les délais impartis ou en cas de répo
 Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 :[nom/prénom]
 
+### Vous avez recu un réponse mais vous ne souhaitez pas fournir un document d'identité au site web concerné, rendez vous [ici](./direct_cnil.md)
+
 ### Vous n'avez pas recu de reponse au bout d'un mois ? Rendez vous [ici](./no_answer.md)
