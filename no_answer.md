@@ -1,1 +1,9 @@
-# Vous n'avez pas recu de reponse de la part du service après un mois ou le service refuse l'effacement de vos données
+# Vous n'avez pas recu de reponse de la part du service après un mois
+
+### Envoyez le message suivant a l'adresse mail de contact précédemment utilisée
+
+```
+N'ayant recu de réponse de votre part, je vous informe que j'ai saisit ce jour la Commission nationale de l’informatique et des libertés (CNIL) d’une réclamation.
+```
+
+### Rendez vous sur le [site de la CNIL](https://www.cnil.fr/fr/plaintes/internet), renseignez le motif de votre plainte, remplissez le formulaire, la CNIL se chargera de faire supprimer le contenu du site en question
